@@ -2,7 +2,7 @@
 This project is a scraper for the McDonald's menu available at McDonald's Ukraine website. The script is written in Python and is designed to collect information about all items on the menu, including their name, description, nutritional values (calories, fats, carbs, proteins, unsaturated fats, sugar, salt), and portion size. The collected data is saved locally in a JSON file.
 ## Installing / Getting started:
 ```shell
-To get started, you need to clone the repository from GitHub: https://github.com/Morty67/udata_test/tree/developer
+To get started, you need to clone the repository from GitHub: https://github.com/Morty67/udata_test
 Python 3.12 must be installed
 
 python -m venv venv
